@@ -1,0 +1,9 @@
+{
+    "users": [
+      { "id": 1, "username": "john", "password": "pass123", "token": "mocked-jwt-token" }
+    ],
+    "tasks": [
+      { "id": 1, "title": "Build UI", "status": "pending" }
+    ]
+  }
+  
